@@ -1,6 +1,6 @@
 # The Next Leg
 
-The Next Leg is a module that provides functionality for creating AI-generated images with Midjourney. It provides a simple interface for interacting with Midjourney's API and performing various actions such as creating images from prompts or URLs, describing images, using buttons or slash commands, and getting account settings.
+The Next Leg is a module that provides functionality for creating AI-generated images with Midjourney. It provides a simple interface for interacting with Midjourney's API and performing various actions such as creating images from prompts or URLs, describing images, using buttons or slash commands, and getting/setting account settings.
 
 ## Installation
 
