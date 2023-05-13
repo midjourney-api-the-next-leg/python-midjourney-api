@@ -8,10 +8,9 @@ setup(
   author = 'The Next leg',                   # Type in your name
   author_email = 'support@thenextleg.io',      # Type in your E-Mail
   url = 'https://github.com/midjourney-api-the-next-leg/python-midjourney-api',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_1_0_0.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/midjourney-api-the-next-leg/python-midjourney-api/archive/refs/tags/v1.0.0.tar.gz',    # I explain this later on
   keywords = ['MIDJOURNEY', 'API', 'THE_NEXT_LEG'],   # Keywords that define your package best
-  install_requires=[            # I get to this in a second
-      ],
+  install_requires=[],
   classifiers=[
     'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
     'Intended Audience :: Developers',      # Define that your audience are developers
