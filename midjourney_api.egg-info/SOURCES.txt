@@ -1,4 +1,4 @@
-README.md
+README.rst
 setup.py
 midjourney_api/__init__.py
 midjourney_api.egg-info/PKG-INFO

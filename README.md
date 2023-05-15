@@ -15,7 +15,7 @@ pip install midjourney-api
 Here is an example of how to use the TNL package to create an image from a prompt:
 
 ```
-from tnl import TNL
+from midjourney_api import TNL
 
 TNL_API_KEY = 'your_api_key_here'
 tnl = TNL(TNL_API_KEY)

@@ -1,28 +1,9 @@
-Metadata-Version: 2.1
-Name: midjourney-api
-Version: 1.0.6
-Summary: Midjourney API wrapper by The Next Leg
-Home-page: https://github.com/midjourney-api-the-next-leg/python-midjourney-api
-Download-URL: https://github.com/midjourney-api-the-next-leg/python-midjourney-api/archive/refs/tags/v1.0.0.tar.gz
-Author: The Next leg
-Author-email: support@thenextleg.io
-License: MIT
-Keywords: MIDJOURNEY,API,THE_NEXT_LEG
-Classifier: Development Status :: 3 - Alpha
-Classifier: Intended Audience :: Developers
-Classifier: Topic :: Software Development :: Build Tools
-Classifier: License :: OSI Approved :: MIT License
-Classifier: Programming Language :: Python :: 3
-Classifier: Programming Language :: Python :: 3.4
-Classifier: Programming Language :: Python :: 3.5
-Classifier: Programming Language :: Python :: 3.6
-
 The Next Leg
 ============
 
 The Next Leg is a module that provides functionality for creating
 AI-generated images with Midjourney. It provides a simple interface for
-interacting with Midjourneyï¿½s API and performing various actions such as
+interacting with Midjourney�s API and performing various actions such as
 creating images from prompts or URLs, describing images, using buttons
 or slash commands, and getting/setting account settings.
 
@@ -85,7 +66,7 @@ Gets the progress and response of a message.
 -  ``message_id`` - The message ID of the message you want to get the
    progress and response for.
 -  ``expire_mins`` (optional) - A timeout for the request in minutes. If
-   the request takes longer than this, it will return as ï¿½incompleteï¿½
+   the request takes longer than this, it will return as �incomplete�
 
 Img 2 Img
 ~~~~~~~~~

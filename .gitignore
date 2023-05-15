@@ -1,0 +1,4 @@
+debug.py
+dist/**
+build/**
+**.egg-info/**
