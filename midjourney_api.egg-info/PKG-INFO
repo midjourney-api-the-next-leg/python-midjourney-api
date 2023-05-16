@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: midjourney-api
-Version: 1.0.6
+Version: 1.0.7
 Summary: Midjourney API wrapper by The Next Leg
 Home-page: https://github.com/midjourney-api-the-next-leg/python-midjourney-api
 Download-URL: https://github.com/midjourney-api-the-next-leg/python-midjourney-api/archive/refs/tags/v1.0.0.tar.gz

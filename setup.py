@@ -3,7 +3,7 @@ import setuptools
 setuptools.setup(
     name="midjourney_api",  # How you named your package folder (MyLib)
     packages=["midjourney_api"],  # Chose the same as "name"
-    version="1.0.6",  # Start with a small number and increase it with every change you make
+    version="1.0.7",  # Start with a small number and increase it with every change you make
     license="MIT",  # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     long_description=open("README.rst").read(),
     description="Midjourney API wrapper by The Next Leg",  # Give a short description about your library
