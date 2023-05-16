@@ -82,7 +82,7 @@ class TNL:
             webhook_override: str - A webhook to override the default webhook.
         """
         request = {
-            "cmd": button,
+            "button": button,
             "buttonMessageId": button_message_id,
             "ref": ref,
             "webhookOverride": webhook_override,
